@@ -82,7 +82,8 @@ TUTZY simplifies the process with a smooth and modern experience for both **stud
 
 ### 🗄️ Database
 - MySQL
-
+- Eloquent ORM
+  
 ### ☁️ Deployment
 - Render
 
